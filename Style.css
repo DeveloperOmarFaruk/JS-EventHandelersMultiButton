@@ -1,0 +1,11 @@
+.btn-div {
+  margin: 200px 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.red-button {
+  display: block;
+  margin: auto;
+  width: 10%;
+}

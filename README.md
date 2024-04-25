@@ -1,4 +1,4 @@
-# Here is some UI and working of this repository.
+# Here is some UI and work shown in this repository.
 ![image](https://github.com/DeveloperOmarFaruk/JS-EventHandelersMultiButton/assets/75971859/1f43ff9a-90ca-48dd-8520-b22f418e05e2)
 ![image](https://github.com/DeveloperOmarFaruk/JS-EventHandelersMultiButton/assets/75971859/19f8c651-0fe5-43c3-9ecb-90e3eae34cff)
 ![image](https://github.com/DeveloperOmarFaruk/JS-EventHandelersMultiButton/assets/75971859/d1928fc2-b661-4ee5-a737-459fb28469ac)
